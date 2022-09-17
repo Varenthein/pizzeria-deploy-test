@@ -13,3 +13,5 @@ server.use(middlewares);
 server.use(router);
 
 server.listen(port);
+
+export default server;
